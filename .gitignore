@@ -110,3 +110,5 @@ venv.bak/
 .idea/parabole-recruitment-test-py3.iml
 .venv/*
 __rough.py
+.idea/dictionaries/Parabole.xml
+.idea/vcs.xml
