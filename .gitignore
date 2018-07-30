@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.venv
+.idea/modules.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/parabole-recruitment-test-py3.iml
+.venv/*
+__rough.py
