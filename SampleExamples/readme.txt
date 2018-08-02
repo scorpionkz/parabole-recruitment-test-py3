@@ -1,0 +1,1 @@
+Examples which will help you understand the input and output format present in the /examples subfolder.
